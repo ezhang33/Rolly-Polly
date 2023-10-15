@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "sdl2_gfxprimitives.h": "c",
+        "collision.h": "c",
+        "stdbool.h": "c",
+        "vector.h": "c",
+        "assert.h": "c",
+        "sdl_wrapper.h": "c",
+        "sdl.h": "c"
+    }
+}
